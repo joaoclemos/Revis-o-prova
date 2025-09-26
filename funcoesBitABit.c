@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int codigoDeArea(unsigned int number) {
-    return number/1000000000;
+    return number/100000000;
 }
 
 int parEmImpar(unsigned int number) {
